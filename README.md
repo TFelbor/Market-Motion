@@ -22,4 +22,4 @@ Using RStudio, we performed data cleaning, exploratory analysis, and time‑seri
 | # | Dataset            | Source                                                         | Size & Format                              | Key Variables                                                   |
 |---|--------------------|----------------------------------------------------------------|--------------------------------------------|-----------------------------------------------------------------|
 | 1 | **SPY**            | Nasdaq – https://nasdaq.com/market-activity/etf/spy/historical | ~2,600 rows × 7 columns (CSV)              | `Date`, `Open`, `High`, `Low`, `Close`, `Adj Close`, `Volume`   |
-| 2 | **Cryptocurrency** | Kaggle – compiled by Sudalai Rajkumar                          | Variable (thousands of rows per coin, CSV) | `Date`, `Open`, `High`, `Low`, `Close`, `Volume`, `Market Cap`  |
+| 2 | **Cryptocurrency** | Kaggle – https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory/data?select=coin_Aave.csv                     | Variable (thousands of rows per coin, CSV) | `Date`, `Open`, `High`, `Low`, `Close`, `Volume`, `Market Cap`  |
