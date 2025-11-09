@@ -1,8 +1,6 @@
-# 📈 Project‑Name: “Market‑Motion – Equity & Crypto Analysis”
+# 📈 Market‑Motion – Equity & Crypto Analysis
 
-   Market analysis & historical comparison of S&P500 & cryptocurrencies.
-
----
+Market analysis & historical comparison of S&P500 & cryptocurrencies.
 
 ## 🚀 Project Overview
 
